@@ -13,7 +13,7 @@ This course will show you how to build an interactive web application from scrat
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Fundamentals knowledge of JQuery
+Fundamentals of JQuery
 ### Technical Requirements
 This course has the following software requirements:<br/>
 HTML,
