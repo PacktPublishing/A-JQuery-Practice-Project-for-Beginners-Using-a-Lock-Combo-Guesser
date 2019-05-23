@@ -16,9 +16,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Fundamentals knowledge of JQuery
 ### Technical Requirements
 This course has the following software requirements:<br/>
-HTML
-CSS
-JQuery
+HTML,
+CSS,
+and JQuery
 
 ## Related Products
 * [DOM Commander - A JavaScript Project Course [Video]](https://www.packtpub.com/application-development/dom-commander-javascript-project-course-video?utm_source=github&utm_medium=repository&utm_campaign=9781838824037)
